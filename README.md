@@ -22,7 +22,9 @@
  	<a href="https://www.twitch.tv/quelzinha_sz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>    
 </div>
 
-![Snake animation](https://github.com/quelzinha1/quezinha1/blob/output/github-contribution-grid-snake.svg)
-       
+![snake gif](https://github.com/quelzinha1/quelzinha1/blob/output/github-contribution-grid-snake.svg)
+
+[!freadme]{https://github-readme-stats.vercel.app/api/pin/?username=quelzinha1$repo=quelzinha1&theme=react)](https://github.com/quelzinha1/quelzinha1)
+
   
  
