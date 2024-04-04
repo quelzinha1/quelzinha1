@@ -23,6 +23,6 @@
 </div>
 
 ![Snake animation](https://github.com/quelzinha1/quezinha1/blob/output/github-contribution-grid-snake.svg)
-          
+       
   
  
