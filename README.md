@@ -13,7 +13,7 @@
   <img align="center" alt="quel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="quel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="quel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="baby-yoda" src="https://https://cdn.discordapp.com/attachments/1063895127787045035/1225463885570510948/baby-yoda.gif?ex=6621392e&is=660ec42e&hm=f5531772ae4917a03256e782499356eff78f9836bc4f93add8984403fa9699f9&">
+  <img align="right" alt="baby-yoda" src="https://cdn.discordapp.com/attachments/1063895127787045035/1225463885570510948/baby-yoda.gif?ex=6621392e&is=660ec42e&hm=f5531772ae4917a03256e782499356eff78f9836bc4f93add8984403fa9699f9&">
     </div>
   
   ##
