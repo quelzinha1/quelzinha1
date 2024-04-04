@@ -14,7 +14,7 @@
   <img align="center" alt="quel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="quel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="quel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="baby-yoda" src="[https://discord.com/channels/802972521053552731/1063895127787045035/1225487576211783771](https://discord.com/channels/802972521053552731/1063895127787045035/1225487576211783771)">
+  <img align="right" alt="baby-yoda" src="https://cdn.discordapp.com/attachments/1063895127787045035/1225487575804805280/R_1.gif?ex=66214f3e&is=660eda3e&hm=265cd06b34d11c9531dd0eb88b3ccd0f990bb546f8002e861d7678f8b62a1710&">
     </div>
   
   ##
