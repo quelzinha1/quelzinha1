@@ -7,7 +7,6 @@
 
 <div>
   <a href="https://beacons.ai/quelzinha_sz">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=quelzinha1&show_icons=false&theme=dracula&include_all_comits=true&counts=true&count_private=true">
     </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="quel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
