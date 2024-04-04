@@ -1,6 +1,8 @@
 ### Olá mundo! ✨​
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🎬​ Criadora de conteúdo na Twitch
+- ​🎮​ Gamer
 
 
 <div>
